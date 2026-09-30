@@ -1,0 +1,8 @@
+{
+  "name": "pi-wizlight-status",
+  "version": "1.0.0",
+  "type": "module",
+  "keywords": ["pi-package"],
+  "scripts": { "test": "node --test" },
+  "pi": { "extensions": ["./extensions/pi-wizlight.js"] }
+}
