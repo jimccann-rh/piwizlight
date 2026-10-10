@@ -10,6 +10,10 @@ Install Python and `pywizlight` in the environment Pi can access:
 python3 -m pip install pywizlight
 ```
 
+```INSTALL
+pi install git:github.com/jimccann-rh/piwizlight
+```
+
 From this directory, install the Pi package:
 
 ```bash
