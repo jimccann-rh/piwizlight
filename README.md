@@ -12,7 +12,7 @@ python3 -m pip install pywizlight
 
 ```bash
 INSTALL
-pi install git:github.com/jimccann-rh/piwizlight
+pi install git:github.com/jimccann-rh/piwizlight && pi update --extensions
 ```
 
 From this directory, install the Pi package:
